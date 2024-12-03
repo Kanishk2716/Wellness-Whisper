@@ -25,4 +25,8 @@ WellnessWhisper is an intuitive and accessible application designed to empower u
   - `LangChain` for managing language model chains and memory.  
   - `Ollama` As the large language model (LLM) provider..  
   - `dotenv` for managing environment variables.  
-- **Deployment:** Python-based with lightweight requirements.  
+- **Deployment:** Python-based with lightweight requirements.
+
+  ---
+
+  ## Installation 🔧
