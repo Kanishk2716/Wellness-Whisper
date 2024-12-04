@@ -49,3 +49,40 @@ WellnessWhisper is an intuitive and accessible application designed to empower u
    ```bash
    streamlit run app.py
    ```
+
+# Usage Guide 📖
+
+1. Select a Topic:
+
+   Choose from a list of predefined mental health topics.
+   Alternatively, input a custom topic using natural language for a personalized experience.
+
+2. Generate Insights:
+
+   Click on the "Generate Insights" button to receive detailed information, coping strategies, self-care tips, and other valuable     
+   resources.
+
+3. Download Content:
+
+   Save the generated information as a markdown file for offline reference.
+
+4. Explore More:
+
+   Use the sidebar to revisit and explore previously generated insights.
+
+```bash
+  WellnessWhisper/
+  ├── app.py               # Main application code
+  ├── requirements.txt     # Python dependencies
+  ├── .env.example         # Example environment variable file
+  ├── README.md            # Project documentation
+  ├── topics/              # Folder for predefined mental health topics (optional)
+  └── downloads/           # Folder for storing downloaded analyses
+```
+
+# Fork the repository.
+
+ - Create your feature branch: git checkout -b feature-name.
+ - Commit your changes: git commit -m 'Add feature'.
+ - Push to the branch: git push origin feature-name.
+ - Open a Pull Request.
