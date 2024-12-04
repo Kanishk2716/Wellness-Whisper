@@ -86,3 +86,13 @@ WellnessWhisper is an intuitive and accessible application designed to empower u
  - Commit your changes: git commit -m 'Add feature'.
  - Push to the branch: git push origin feature-name.
  - Open a Pull Request.
+
+# License 📜
+
+This project is licensed under the MIT License.
+
+# Acknowledgments 🙌
+
+-Ollama (Llama 3.2): For powering advanced natural language understanding and response generation.
+
+-Streamlit: For providing an intuitive framework for building interactive web apps.
